@@ -1,11 +1,11 @@
-package ro.mirodone;
+package ro.mirodone.carpetCalculator;
 
 public class Floor {
 
     private double width;
     private double length;
 
-     Floor(double width, double length) {
+    public Floor(double width, double length) {
 
         this.width = width;
         this.length = length;

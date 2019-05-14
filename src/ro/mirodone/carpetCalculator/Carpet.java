@@ -1,10 +1,10 @@
-package ro.mirodone;
+package ro.mirodone.carpetCalculator;
 
 public class Carpet {
 
     private double cost;
 
-    Carpet(double cost) {
+    public Carpet(double cost) {
 
         this.cost = cost;
     }
